@@ -1,0 +1,7 @@
+{
+  "name": "cordova-iab-6-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
